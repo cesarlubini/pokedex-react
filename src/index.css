@@ -1,0 +1,23 @@
+:root {
+  --box-shadow: 3px 3px 12px rgba(0,0,0,.1);
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  width: min(100%, 1600px);
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
