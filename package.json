@@ -6,7 +6,10 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
+<<<<<<< HEAD
     "normalize.css": "^8.0.1",
+=======
+>>>>>>> 5e30fc24f6c442678dc963dd43af2f9aaafc1e42
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
