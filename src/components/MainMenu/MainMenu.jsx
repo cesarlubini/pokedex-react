@@ -9,8 +9,8 @@ class MainMenu extends Component {
       <nav className="main-menu">
         <Logo/>
         <ul className="menu">
-          <li className="menu__item"><a href="#">Home</a></li>
-          <li className="menu__item"><a href="#">About</a></li>
+          <li className="menu__item"><a href="/">Home</a></li>
+          <li className="menu__item"><a href="/">About</a></li>
         </ul>
       </nav>
     )

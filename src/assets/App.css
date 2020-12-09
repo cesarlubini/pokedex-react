@@ -1,0 +1,13 @@
+.content {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-page .main-menu,
+.home-page .form,
+.home-page .pokemon-list {
+  margin-bottom: 64px;
+}

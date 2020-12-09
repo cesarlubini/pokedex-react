@@ -2,10 +2,13 @@
   --box-shadow: 3px 3px 12px rgba(0,0,0,.1);
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: 'Lato', sans-serif;
-  box-sizing: border-box;
 }
 
 code {

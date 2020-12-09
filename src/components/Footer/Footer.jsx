@@ -5,9 +5,9 @@ class Footer extends Component {
 
   render() {
     return(
-      <div>
-        Footerzin
-      </div>
+      <footer className="footer">
+        <p className="footer__content">Developed by Cesar Lubini for the purpose of study</p>
+      </footer>
     )
   }
 
